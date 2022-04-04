@@ -2,7 +2,7 @@
 # AUTHOR - PRIYANKA S. PEDDINTI
 
 
-# DOWNLOADING LIBRARIES
+# DOWNLOADING LIBRARIES - as in Jupyter notebook in Google collab
 from sklearn.datasets import make_blobs
 import numpy as np
 import pandas as pd
