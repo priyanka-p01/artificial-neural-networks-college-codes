@@ -28,3 +28,5 @@ sns.scatterplot(data = df, x = 'var1', y = 'var2', hue = kmeans.labels_)
 plt.scatter(kmeans.cluster_centers_[:,0], kmeans.cluster_centers_[:,1], marker = 'X', c ='r', s = 80, label = 'centroids')
 plt.legend()
 plt.show()
+
+
